@@ -4,7 +4,7 @@
 
 ## 📖 About me
 
-* 💻 I'm a front-end developer in Konecta
+* 💻 I'm a front-end developer jr.
 * 🎓 I'm a Industrial Engineer 
 * 📱 I'm instructor in PyLadies 
 *  💡 I like to explore new technologies and develop software solutions and quick hacks.
@@ -20,7 +20,7 @@
 ### <img src="" width="50"> A little more about me ...
 
 ```javascript
-const jess = {
+const milu = {
     pronouns: "She" | "Her",
     code: ["Javascript", "Python", "node.js", "HTML", "CSS"],
     askMeAbout: ["web dev", "tech", "project", "SCRUM"],
@@ -73,23 +73,16 @@ const jess = {
 ### ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://github.com/Davekibh">
-  <img alt="Jess's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jesselizcb&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="400"/>
+    <img alt="Milu's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miluskapajuelo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="400"/>
   </a>
 
-<a href="https://github.com/Davekibh">
-   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jesselizcb&layout=compact&langs_count=8&theme=radical"  />
-</a>
-
 ----
-<p align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em></p>
 
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/miluskapajuelo"><img src="https://img.shields.io/badge/-Yesseliz%20Choque%20Becerra-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:miluskapajuelo@gmail.com"><img src="https://img.shields.io/badge/-yesselizcb@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/miluskapajuelo"><img src="https://img.shields.io/badge/-@jesselizcb-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/miluskapajuelo"><img src="https://img.shields.io/badge/-miluska%20pajuelo?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:miluskapajuelo@gmail.com"><img src="https://img.shields.io/badge/-miluskapajuelo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/miluskapajuelo"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmiluskapajuelo"/></a>
   
