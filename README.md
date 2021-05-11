@@ -44,18 +44,13 @@ const milu = {
 
 ### 🛠 &nbsp;Tech Stack
 <p align="center">
-<code><img height="23" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
-<code><img height="23" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"></code>
 <code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="23" src="https://bestofjs.org/logos/vuetify.svg"></code>
-<code><img height="23" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"></code>
+<code><img height="23" src= "https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="23" src= "https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="23" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
 <code><img height="23" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
+  
 
 </p>
 <p align="center">
