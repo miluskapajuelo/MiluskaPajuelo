@@ -54,13 +54,8 @@ const milu = {
 
 </p>
 <p align="center">
-<code><code><img height="20" width="20" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code></code>
 <code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 <code><img height="23" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-<code><img height="23" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg"></code>
-<code><img height="23" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <br/>
 <br/>
 <br/>
