@@ -1,15 +1,15 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Miluska Pajuelo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<h3 align="center">Industrial Engineer | Front end developer | Python Enthusiast</h3>
+<h3 align="center"> Front end developer | Industrial Engineer | Angular & Python lover</h3>
 
 
 ## 📖 About me
 
-* 💻 I'm a front-end developer jr.
-* 🎓 I'm a Industrial Engineer 
-* 📱 I'm instructor in PyLadies 
+* 💻 I'm a front-end developer.
+* 🎓 I'm a Industrial Engineer. 
+* 📱 I'm instructor in PyLadies Arequipa also I'm coordinator in Python Chile.
 *  💡 I like to explore new technologies and develop software solutions and quick hacks.
-* 🌱  I'm on track for learning more about Django - framework Python
-* 🚴‍♀️ In my free time, I used to travel
+* 🌱  I'm on track for learning more about Angular anf Django. 
+* 🚴‍♀️ In my free time, I listen music and try to sing
 * 🌐 You can see some of my projects on [my portfolio]()
 
 <p align="left">
@@ -23,14 +23,14 @@
 const milu = {
     pronouns: "She" | "Her",
     code: ["Javascript", "Python", "node.js", "HTML", "CSS"],
-    askMeAbout: ["web dev", "tech", "project", "SCRUM"],
+    askMeAbout: ["clean code", "modularization", "SCRUM"],
     technologies: {
         frontEnd: {
-            js: [""],
+            js: ["Angular", "Typescript"],
             css: ["SASS", "bootstrap"]
         },
         backEnd: {
-            js: ["node"],
+            js: ["Node.js"],
             python: ["Django"]
         },
         databases: ["MySql", "Firebase", "GCP"]
