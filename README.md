@@ -16,9 +16,9 @@ Frontend is my true passion and I really enjoy exploring new & better ways to de
 
 📫 You can find me
   <p><a href="https://www.linkedin.com/in/miluskapajuelo">LinkedIn</p>
-  Email
-  Twitter
-  Website
+  <p><a href="mailto:miluskapajuelo@gmail.com">Email</p>
+  <p><a href="https://twitter.com/miluskapajuelo">Twitter</p>
+
   
 ### <img src="" width="50"> A little more about me ...
 
