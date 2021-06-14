@@ -1,3 +1,5 @@
+<img src="https://github.com/miluskapajuelo/MiluskaPajuelo/blob/main/MiluPortada.png"
+
 <h3 align="left"> Hi & Welcone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <h1 align="left"> I'm Miluska Pajuelo! </h1>
   
