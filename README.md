@@ -14,12 +14,12 @@ Frontend is my true passion and I really enjoy exploring new & better ways to de
   * I'm instructor in PyLadies Arequipa 
   * I'm coordinator in Python Chile.
 
-
-<p align="left">
-  <a href=""><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
-   
-</p>
-
+📫 You can find me
+  <p><a href="https://www.linkedin.com/in/miluskapajuelo">LinkedIn</p>
+  Email
+  Twitter
+  Website
+  
 ### <img src="" width="50"> A little more about me ...
 
 ```javascript
