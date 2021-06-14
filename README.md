@@ -1,15 +1,14 @@
-<h3 align="center"> Hi & Welcone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-<h1 align="center"> I'm Miluska Pajuelo! </h1>
+<h3 align="left"> Hi & Welcone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<h1 align="left"> I'm Miluska Pajuelo! </h1>
   
-<h3 align="center"> I'm Front end developer & Python enthusiast</h3>
+<h3 align="left"> I'm Front end developer & Python enthusiast</h3>
 
 
 ##💻 What I do
-  Working full time in Angular, Typescript and SCSS. Also experienced with Node.js.
+###Working full time in Angular, Typescript and SCSS. Also experienced with Node.js.
 
-  Code, Managment, Learn and participate in tech communities.
-  
-  Frontend is my true passion and I really enjoy exploring new & better ways to develop software solutions and quick hacks.
+###Code, Managment, Learn and participate in tech communities.
+###Frontend is my true passion and I really enjoy exploring new & better ways to develop software solutions and quick hacks.
   
   * I'm instructor in PyLadies Arequipa 
   * I'm coordinator in Python Chile.
