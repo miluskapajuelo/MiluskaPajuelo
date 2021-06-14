@@ -6,7 +6,7 @@
 
 💻 What I do
   
-Working full time in Angular, Typescript and SCSS. Also experienced with Node.js.
+Working full time in Angular, Typescript and SASS. Also experienced with Node.js.
 
 Code, Managment, Learn and participate in tech communities.
   
