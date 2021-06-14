@@ -5,6 +5,7 @@
 
 
 💻 What I do
+  
 Working full time in Angular, Typescript and SCSS. Also experienced with Node.js.
 
 Code, Managment, Learn and participate in tech communities.
@@ -75,6 +76,6 @@ const milu = {
 
 <p align="center">
 <a href="https://www.linkedin.com/in/miluskapajuelo"><img src="https://img.shields.io/badge/-miluska%20pajuelo?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:miluskapajuelo@gmail.com"><img src="https://img.shields.io/badge/-miluskapajuelo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/miluskapajuelo"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmiluskapajuelo"/></a>
+<a href="mailto:miluskapajuelo@gmail.com"><img src="https://img.shields.io/badge/D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/miluskapajuelo"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2"/></a>
   
