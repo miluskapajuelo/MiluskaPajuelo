@@ -1,16 +1,19 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Miluska Pajuelo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<h3 align="center"> Front end developer | Industrial Engineer | Angular & Python lover</h3>
+<h3 align="center"> Hi & Welcone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<h1 align="center"> I'm Miluska Pajuelo! </h1>
+  
+<h3 align="center"> I'm Front end developer & Python enthusiast</h3>
 
 
-## 📖 About me
+##💻 What I do
+  Working full time in Angular, Typescript and SCSS. Also experienced with Node.js.
 
-* 💻 I'm a front-end developer.
-* 🎓 I'm a Industrial Engineer. 
-* 📱 I'm instructor in PyLadies Arequipa also I'm coordinator in Python Chile.
-*  💡 I like to explore new technologies and develop software solutions and quick hacks.
-* 🌱  I'm on track for learning more about Angular anf Django. 
-* 🚴‍♀️ In my free time, I listen music and try to sing
-* 🌐 You can see some of my projects on [my portfolio]()
+  Code, Managment, Learn and participate in tech communities.
+  
+  Frontend is my true passion and I really enjoy exploring new & better ways to develop software solutions and quick hacks.
+  
+  * I'm instructor in PyLadies Arequipa 
+  * I'm coordinator in Python Chile.
+
 
 <p align="left">
   <a href=""><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
