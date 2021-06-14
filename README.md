@@ -9,6 +9,7 @@
 Working full time in Angular, Typescript and SCSS. Also experienced with Node.js.
 
 Code, Managment, Learn and participate in tech communities.
+  
 Frontend is my true passion and I really enjoy exploring new & better ways to develop software solutions and quick hacks.
   
   * I'm instructor in PyLadies Arequipa 
