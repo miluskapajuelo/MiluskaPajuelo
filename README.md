@@ -45,7 +45,6 @@ const milu = {
 };
 ```
 ----
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -68,7 +67,7 @@ const milu = {
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<a href="https://github.com/Davekibh">
+<a href="https://github.com/miluskapajuelo">
     <img alt="Milu's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miluskapajuelo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="400"/>
   </a>
 
