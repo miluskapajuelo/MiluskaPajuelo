@@ -3,12 +3,12 @@
 <h3 align="left"> Hi & Welcome <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <h1 align="left"> I'm Miluska Pajuelo! </h1>
   
-<h3 align="left"> I'm Front end developer & Python enthusiast</h3>
+<h3 align="left"> I'm Front end developer & Web3 enthusiast</h3>
 
 
 💻 What I do
   
-Working full time in Angular, Typescript and SASS. Also experienced with Node.js.
+Working full time with React and Python, Dash and Flask. Also experienced with Node.js, Angular and Typescript.
 
 Code, Managment, Learn and participate in tech communities.
   
@@ -32,8 +32,9 @@ const milu = {
     askMeAbout: ["clean code", "modularization", "SCRUM"],
     technologies: {
         frontEnd: {
-            js: ["Angular", "Typescript"],
-            css: ["SASS", "bootstrap"]
+            js: ["Angular", "React", "Typescript"],
+            css: ["SASS", "bootstrap"],
+            py: ["Dash","Flask"]
         },
         backEnd: {
             js: ["Node.js"],
