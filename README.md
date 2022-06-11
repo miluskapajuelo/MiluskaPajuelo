@@ -15,9 +15,9 @@ Frontend is my true passion and I really enjoy exploring new & better ways to de
   * I'm coordinator in Python Chile.
 
 📫 You can find me
-  * <p><a href="https://www.linkedin.com/in/miluskapajuelo" target="_blank">LinkedIn</p>
-  * <p><a href="mailto:miluskapajuelo@gmail.com" target="_blank">Email</p>
-  * <p><a href="https://twitter.com/miluskapajuelo" target="_blank">Twitter</p>
+  <p><a href="https://www.linkedin.com/in/miluskapajuelo" target="_blank">LinkedIn</p>
+  <p><a href="mailto:miluskapajuelo@gmail.com" target="_blank">Email</p>
+  <p><a href="https://twitter.com/miluskapajuelo" target="_blank">Twitter</p>
 
   
 ### 🛠 &nbsp;Tech Stack
