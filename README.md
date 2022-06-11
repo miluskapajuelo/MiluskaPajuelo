@@ -1,4 +1,3 @@
-<h3 align="left"> Hi & Welcome <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <h1 align="left"> I'm Miluska Pajuelo! </h1>
   
 <h3 align="left"> I'm Front end developer & Web3 enthusiast</h3>
@@ -21,31 +20,6 @@ Frontend is my true passion and I really enjoy exploring new & better ways to de
   * <p><a href="https://twitter.com/miluskapajuelo" target="_blank">Twitter</p>
 
   
-🤝 A little more about me ...
-
-```javascript
-const milu = {
-    pronouns: "She" | "Her",
-    code: ["Javascript", "Python", "node.js", "HTML", "CSS"],
-    askMeAbout: ["clean code", "modularization", "SCRUM"],
-    technologies: {
-        frontEnd: {
-            js: ["Angular", "React", "Typescript"],
-            css: ["SASS", "bootstrap"],
-            py: ["Dash","Flask"]
-        },
-        backEnd: {
-            js: ["Node.js"],
-            python: ["Django"]
-        },
-        databases: ["MySql", "Firebase", "GCP"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-};
-```
-----
-
-
 ### 🛠 &nbsp;Tech Stack
 <p align="center">
 <code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
