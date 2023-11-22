@@ -1,6 +1,6 @@
 <h1 align="left"> I'm Miluska Pajuelo! </h1>
   
-<h3 align="left"> I'm Front end developer & Web3 enthusiast</h3>
+<h3 align="left"> I'm Front end developer & AI enthusiast</h3>
 
 
 💻 What I do
@@ -9,7 +9,7 @@ Working full time with React and Python, Dash and Flask. Also experienced with N
 
 Code, Managment, Learn and participate in tech communities.
   
-Frontend is my true passion and I really enjoy exploring new & better ways to develop software solutions and quick hacks.
+Frontend is my true passion, where I love exploring new ways to develop software and implementing quick hacks. I'm particularly intrigued by generative AI and constantly engage in personal projects to push boundaries and enhance my skills in this dynamic field. It's the perfect intersection of creativity and technology that fuels my enthusiasm.
   
   * I'm instructor in PyLadies Arequipa 
   * I'm coordinator in Python Chile.
